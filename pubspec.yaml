@@ -1,5 +1,5 @@
 name: cadastros_cliente
-description: Funilar Cadastros - Cadastro de clientes, seguradoras, reguladores/peritos, fornecedores e funcionários, com busca, telefone e documento, backup e atualização.
+description: "Funilar Cadastros - Cadastro de clientes, seguradoras, reguladores/peritos, fornecedores e funcionários, com busca, telefone e documento, backup e atualização."
 publish_to: 'none'
 version: 1.0.0+1
 
